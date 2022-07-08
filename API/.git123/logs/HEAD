@@ -1,0 +1,41 @@
+0000000000000000000000000000000000000000 870e9803c28d9dad3dcd929d0b0aae5553bc5979 lunagomez26 <luvagoba@gmail.com> 1603385117 -0500	commit (initial): Creacion de la API de KeyCodeBook
+870e9803c28d9dad3dcd929d0b0aae5553bc5979 0000000000000000000000000000000000000000 lunagomez26 <luvagoba@gmail.com> 1603385132 -0500	Branch: renamed refs/heads/master to refs/heads/main
+0000000000000000000000000000000000000000 870e9803c28d9dad3dcd929d0b0aae5553bc5979 lunagomez26 <luvagoba@gmail.com> 1603385132 -0500	Branch: renamed refs/heads/master to refs/heads/main
+870e9803c28d9dad3dcd929d0b0aae5553bc5979 870e9803c28d9dad3dcd929d0b0aae5553bc5979 lunagomez26 <luvagoba@gmail.com> 1603395522 -0500	checkout: moving from main to genres
+870e9803c28d9dad3dcd929d0b0aae5553bc5979 e6679bc1205685c9016c84cf5f74b709f6a10050 lunagomez26 <luvagoba@gmail.com> 1603399143 -0500	commit: Se creó el modelo, controlador y rutas de Genres.
+e6679bc1205685c9016c84cf5f74b709f6a10050 e6679bc1205685c9016c84cf5f74b709f6a10050 lunagomez26 <luvagoba@gmail.com> 1603480664 -0500	checkout: moving from genres to books
+e6679bc1205685c9016c84cf5f74b709f6a10050 870e9803c28d9dad3dcd929d0b0aae5553bc5979 lunagomez26 <luvagoba@gmail.com> 1603481425 -0500	checkout: moving from books to main
+870e9803c28d9dad3dcd929d0b0aae5553bc5979 d4277f2ee2ff040989f83c23edd65b967b002cf3 lunagomez26 <luvagoba@gmail.com> 1603481429 -0500	pull origin main: Fast-forward
+d4277f2ee2ff040989f83c23edd65b967b002cf3 e6679bc1205685c9016c84cf5f74b709f6a10050 lunagomez26 <luvagoba@gmail.com> 1603481476 -0500	checkout: moving from main to books
+e6679bc1205685c9016c84cf5f74b709f6a10050 d4277f2ee2ff040989f83c23edd65b967b002cf3 lunagomez26 <luvagoba@gmail.com> 1603481479 -0500	pull origin main: Fast-forward
+d4277f2ee2ff040989f83c23edd65b967b002cf3 508bc095280c97aea240be4de12918ac6bf77ee8 lunagomez26 <luvagoba@gmail.com> 1603490578 -0500	commit: Se creo el metodo para crear un nuevo libro
+508bc095280c97aea240be4de12918ac6bf77ee8 c0a61d2cb62650c6345ef75c937ec6eeb5e7d307 lunagomez26 <luvagoba@gmail.com> 1603493035 -0500	commit: Se creó el método de actualizar libro y genero
+c0a61d2cb62650c6345ef75c937ec6eeb5e7d307 d4277f2ee2ff040989f83c23edd65b967b002cf3 lunagomez26 <luvagoba@gmail.com> 1603493540 -0500	checkout: moving from books to main
+d4277f2ee2ff040989f83c23edd65b967b002cf3 94f558405c967f0ede1fbd771a4e7418f7348537 lunagomez26 <luvagoba@gmail.com> 1603493559 -0500	pull origin main: Fast-forward
+94f558405c967f0ede1fbd771a4e7418f7348537 94f558405c967f0ede1fbd771a4e7418f7348537 lunagomez26 <luvagoba@gmail.com> 1603831005 -0500	checkout: moving from main to librosYUsuarios
+94f558405c967f0ede1fbd771a4e7418f7348537 7fd2f8ea2dfea62c15a3a836764f20c320380d7a lunagomez26 <luvagoba@gmail.com> 1603831193 -0500	commit: Se agregaron los metodos de obtener y eliminar a los libros y usuarios
+7fd2f8ea2dfea62c15a3a836764f20c320380d7a c67f57e7a6c2f429cf3846d7d76df83681e9663c lunagomez26 <luvagoba@gmail.com> 1603831289 -0500	pull origin main: Fast-forward
+c67f57e7a6c2f429cf3846d7d76df83681e9663c 94f558405c967f0ede1fbd771a4e7418f7348537 lunagomez26 <luvagoba@gmail.com> 1603831313 -0500	checkout: moving from librosYUsuarios to main
+94f558405c967f0ede1fbd771a4e7418f7348537 c67f57e7a6c2f429cf3846d7d76df83681e9663c lunagomez26 <luvagoba@gmail.com> 1603831316 -0500	pull origin main: Fast-forward
+c67f57e7a6c2f429cf3846d7d76df83681e9663c c67f57e7a6c2f429cf3846d7d76df83681e9663c lunagomez26 <luvagoba@gmail.com> 1603913818 -0500	checkout: moving from main to listarGeneros
+c67f57e7a6c2f429cf3846d7d76df83681e9663c e36f1a406f81679a45c5a73fcbe1c3f16baff04f lunagomez26 <luvagoba@gmail.com> 1603913891 -0500	commit: Se agregaron los metodos para listar los generos
+e36f1a406f81679a45c5a73fcbe1c3f16baff04f c67f57e7a6c2f429cf3846d7d76df83681e9663c lunagomez26 <luvagoba@gmail.com> 1603914271 -0500	checkout: moving from listarGeneros to main
+c67f57e7a6c2f429cf3846d7d76df83681e9663c 5a448706da39c85dce4a7c883d0d64a031034ece lunagomez26 <luvagoba@gmail.com> 1603914304 -0500	pull origin main: Fast-forward
+5a448706da39c85dce4a7c883d0d64a031034ece 5a448706da39c85dce4a7c883d0d64a031034ece lunagomez26 <luvagoba@gmail.com> 1603924945 -0500	checkout: moving from main to authUsers
+5a448706da39c85dce4a7c883d0d64a031034ece dfb0bf75c7dfc0314e7618d22e3883214b8508cd lunagomez26 <luvagoba@gmail.com> 1603925028 -0500	commit: Se crearon la autenticacion de usuarios con tokens
+dfb0bf75c7dfc0314e7618d22e3883214b8508cd f612bc4d51bf7c3e049a679cefd6d57b6b83486b lunagomez26 <luvagoba@gmail.com> 1604009267 -0500	commit: make it better
+f612bc4d51bf7c3e049a679cefd6d57b6b83486b 5a448706da39c85dce4a7c883d0d64a031034ece lunagomez26 <luvagoba@gmail.com> 1604009325 -0500	checkout: moving from authUsers to main
+5a448706da39c85dce4a7c883d0d64a031034ece 14519f6fffdc9305ced5d29dc98a0d83b2c0e461 lunagomez26 <luvagoba@gmail.com> 1604009344 -0500	pull origin main: Fast-forward
+14519f6fffdc9305ced5d29dc98a0d83b2c0e461 f612bc4d51bf7c3e049a679cefd6d57b6b83486b lunagomez26 <luvagoba@gmail.com> 1604009614 -0500	checkout: moving from main to authUsers
+f612bc4d51bf7c3e049a679cefd6d57b6b83486b 709b41b91d7d9a9f829e8b792cabc043a47280e1 lunagomez26 <luvagoba@gmail.com> 1604009734 -0500	commit: Se hicieron cambios en db y mas
+709b41b91d7d9a9f829e8b792cabc043a47280e1 8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 lunagomez26 <luvagoba@gmail.com> 1604009834 -0500	pull origin main: Fast-forward
+8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 14519f6fffdc9305ced5d29dc98a0d83b2c0e461 lunagomez26 <luvagoba@gmail.com> 1604009848 -0500	checkout: moving from authUsers to main
+14519f6fffdc9305ced5d29dc98a0d83b2c0e461 8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 lunagomez26 <luvagoba@gmail.com> 1604009852 -0500	pull origin main: Fast-forward
+8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 lunagomez26 <luvagoba@gmail.com> 1604010814 -0500	checkout: moving from main to authUsers
+8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 lunagomez26 <luvagoba@gmail.com> 1604010841 -0500	checkout: moving from authUsers to main
+8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 ee21003639b1a9aa5d6570c42360b67fb37850b7 lunagomez26 <luvagoba@gmail.com> 1604010878 -0500	commit: Se agrego la variable de la conexion a Mongo
+ee21003639b1a9aa5d6570c42360b67fb37850b7 8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 lunagomez26 <luvagoba@gmail.com> 1604088123 -0500	checkout: moving from main to authUsers
+8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 7bec715b6fe4ac45d7b5bbc5da11ebdbba7b7140 lunagomez26 <luvagoba@gmail.com> 1604088270 -0500	commit: Se realizo el cambio a la const KeyToken
+7bec715b6fe4ac45d7b5bbc5da11ebdbba7b7140 a75d88ed745dfc80a109e19d0e65ab6929ee3f56 lunagomez26 <luvagoba@gmail.com> 1604088320 -0500	pull origin main: Fast-forward
+a75d88ed745dfc80a109e19d0e65ab6929ee3f56 ee21003639b1a9aa5d6570c42360b67fb37850b7 lunagomez26 <luvagoba@gmail.com> 1604088331 -0500	checkout: moving from authUsers to main
+ee21003639b1a9aa5d6570c42360b67fb37850b7 a365c14829f3fa61085102229b568ebafa918ba1 lunagomez26 <luvagoba@gmail.com> 1604088336 -0500	pull origin main: Merge made by the 'recursive' strategy.

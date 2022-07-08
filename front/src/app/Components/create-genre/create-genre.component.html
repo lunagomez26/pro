@@ -1,0 +1,12 @@
+<div class="container">
+    <h1>Crear un genero</h1>
+    <form [formGroup]='genreForm' (ngSubmit)='saveGenre()'>
+        <div class="form-row">
+            <div class="form-group col-md-6">
+                <label>Nombre Genero</label>
+                <input formControlName="name" id="name" type="text" class="form-control" >
+            </div>
+        </div>
+        <button class="btn btn-info">Guardar</button>
+    </form>
+</div>

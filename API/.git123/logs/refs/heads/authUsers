@@ -1,0 +1,7 @@
+0000000000000000000000000000000000000000 5a448706da39c85dce4a7c883d0d64a031034ece lunagomez26 <luvagoba@gmail.com> 1603924945 -0500	branch: Created from HEAD
+5a448706da39c85dce4a7c883d0d64a031034ece dfb0bf75c7dfc0314e7618d22e3883214b8508cd lunagomez26 <luvagoba@gmail.com> 1603925028 -0500	commit: Se crearon la autenticacion de usuarios con tokens
+dfb0bf75c7dfc0314e7618d22e3883214b8508cd f612bc4d51bf7c3e049a679cefd6d57b6b83486b lunagomez26 <luvagoba@gmail.com> 1604009267 -0500	commit: make it better
+f612bc4d51bf7c3e049a679cefd6d57b6b83486b 709b41b91d7d9a9f829e8b792cabc043a47280e1 lunagomez26 <luvagoba@gmail.com> 1604009734 -0500	commit: Se hicieron cambios en db y mas
+709b41b91d7d9a9f829e8b792cabc043a47280e1 8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 lunagomez26 <luvagoba@gmail.com> 1604009834 -0500	pull origin main: Fast-forward
+8bf40cbc7478f1eb4f12a180c1b45f8f70b303b6 7bec715b6fe4ac45d7b5bbc5da11ebdbba7b7140 lunagomez26 <luvagoba@gmail.com> 1604088270 -0500	commit: Se realizo el cambio a la const KeyToken
+7bec715b6fe4ac45d7b5bbc5da11ebdbba7b7140 a75d88ed745dfc80a109e19d0e65ab6929ee3f56 lunagomez26 <luvagoba@gmail.com> 1604088320 -0500	pull origin main: Fast-forward
